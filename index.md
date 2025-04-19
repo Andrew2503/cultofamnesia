@@ -2,6 +2,7 @@
 <style>
   .poem {
     font-family: 'Lora', serif;
+    font-color: #FFFFFF
   }
 </style>
 
