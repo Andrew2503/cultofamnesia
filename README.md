@@ -1,9 +1,10 @@
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Ruslan+Display&display=swap" rel="stylesheet">
+<style>
+  * {
+    font-family: "Ruslan Display", sans-serif;
+  }
+</style>
 
-<head>
-  <link href="https://fonts.google.com/share?selection.family=Caveat:wght@400..700|Ruslan+Display" rel=stylesheet">
-
-  
-</head>
 <body>
 <div>
 <h1 style="text-align: center;"> <strong>Cult of Amnesia </strong> </h1>
