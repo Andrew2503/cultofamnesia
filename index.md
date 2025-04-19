@@ -6,6 +6,26 @@
 </style>
 
 <style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* 3 equal columns */
+    gap: 1rem; /* space between items */
+  }
+
+  .grid-item {
+    background: lightgray;
+    padding: 1rem;
+    text-align: center;
+  }
+</style>
+
+<div class="grid-container">
+  <div class="grid-item">A</div>
+  <div class="grid-item">B</div>
+  <div class="grid-item">C</div>
+</div>
+
+<style>
   div {
     margin-bottom: 2rem;
   }
