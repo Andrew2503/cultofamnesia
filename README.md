@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center;">
 <h1> <strong>Cult of Amnesia </strong> </h1>
 </div>
 
