@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-<h1> <strong>Cult of Amnesia </strong> </h1>
+<div>
+<h1 style="text-align: center;"> <strong>Cult of Amnesia </strong> </h1>
 </div>
 
 <p> Here's a link to a funny cat:
