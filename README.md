@@ -1,1 +1,1 @@
-<p style="text-align: center;">CULT OF AMNESIA</p>
+<h1> <strong>Cult of Amnesia </strong> </h1>
