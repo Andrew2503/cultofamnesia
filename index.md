@@ -6,6 +6,12 @@
 </style>
 
 <style>
+  body {
+    background-color:  #1d1c1c;
+  }
+</style>
+
+<style>
   .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
