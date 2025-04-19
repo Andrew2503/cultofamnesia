@@ -42,8 +42,7 @@ This is line. <br>
 This is line. <br>
 </div>
 
-<div>
-  <img "assets/illustration1.jpg">
-</div>
+<img src="assets/illustration1.jpg" style="width:40%; height: auto">
+
 
 
