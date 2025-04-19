@@ -5,18 +5,16 @@
   }
 </style>
 
-# My Page
-
-Regular text here.
-
-<div class="poem">
-This is a poem line\
-This is line\  
-This is line\
-</div>
-
 <div>
 <h1 style="text-align: center;">
   <strong>CULT OF AMNESIA</strong>
 </h1>
 </div>
+
+<div class="poem">
+This is a poem line.<br>
+This is line. <br>
+This is line. <br>
+</div>
+
+
