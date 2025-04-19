@@ -1,7 +1,7 @@
-<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 <style>
   * {
-    font-family: "Caveat", cursive;
+    font-family: "EB Garamond", serif;
   }
 </style>
 
@@ -10,12 +10,7 @@
 <h1 style="text-align: center;"> <strong>Cult of Amnesia </strong> </h1>
 </div>
 
-<div style="width: fit-content; margin: 0 auto;">
-<p> Here's a link to a funny cat:
-<a href="https://www.youtube.com/shorts/NsMKvVdEPkw">Click me</a>
-</p>
-
-<p style="text-align: center;">
+<p style="text-align: left;">
   The Loudness trying to fight<br>
   Instincts of throwing dice<br>
   I'm trying to navigate<br>
