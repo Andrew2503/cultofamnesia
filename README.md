@@ -1,3 +1,5 @@
+<div>
 <h1 style="text-align: center;">
-  CULT OF AMNESIA
+  <strong>CULT OF AMNESIA</strong>
 </h1>
+</div>
