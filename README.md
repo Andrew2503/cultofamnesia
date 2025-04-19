@@ -1,7 +1,14 @@
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap">
 <style>
-  * {
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  .poem {
     font-family: "EB Garamond", serif;
+    margin: 2rem 0;
+    line-height: 1.6;
+    white-space: pre-line;
   }
 </style>
 
@@ -9,8 +16,8 @@
 <div>
 <h1 style="text-align: center;"> <strong>Cult of Amnesia </strong> </h1>
 </div>
-
-<p style="text-align: left;">
+ 
+<div class="poem";>
   The Loudness trying to fight<br>
   Instincts of throwing dice<br>
   I'm trying to navigate<br>
@@ -43,6 +50,5 @@
 
   Laugh it off<br>
   Laugh it off<br>
-</p>
 </div>
 </body>
