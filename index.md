@@ -5,6 +5,12 @@
   }
 </style>
 
+<style>
+  div {
+    margin-bottom: 2rem;
+  }
+</style>
+
 <div>
 <h1 style="text-align: center;">
   <strong>CULT OF AMNESIA</strong>
