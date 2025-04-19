@@ -18,10 +18,6 @@
   }
 </style>
 
-<div class="grid-container">
-  <div class="grid-item">IT'S OVER NOW</div>
-  <div class="grid-item">IT'S OVER NOW</div>
-</div>
 
 <style>
   div {
@@ -35,10 +31,19 @@
 </h1>
 </div>
 
+<div class="grid-container">
+  <div class="grid-item">IT'S OVER NOW</div>
+  <div class="grid-item">IT'S OVER NOW</div>
+</div>
+
 <div class="poem">
 This is a poem line.<br>
 This is line. <br>
 This is line. <br>
+</div>
+
+<div>
+  <img "assets/illustration1.jpg">
 </div>
 
 
