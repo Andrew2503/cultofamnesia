@@ -10,9 +10,9 @@
 Regular text here.
 
 <div class="poem">
-This is a poem line 1  
-This is line 2  
-This is line 3
+This is a poem line\
+This is line\  
+This is line\
 </div>
 
 <div>
