@@ -1,7 +1,7 @@
-<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Ruslan+Display&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
 <style>
   * {
-    font-family: "Ruslan Display", sans-serif;
+    font-family: "Caveat", cursive;
   }
 </style>
 
